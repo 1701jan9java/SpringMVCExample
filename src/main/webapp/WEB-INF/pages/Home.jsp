@@ -10,6 +10,6 @@
 <body>
 	<h1>You're Home!</h1>
 	<h2><c:out value="${user.username}"></c:out></h2>
-	<h2>Test 5:35pm</h2>
+	<h2>Test 5:48pm</h2>
 </body>
 </html>
